@@ -1,4 +1,8 @@
 ## Find lambda3/lambda1 for an event cluster
+#Faster, Optimize it 
+#Parallel Computing, Pytorch (useful tool for parallel processing), Convolution, Julia (another language for parallel processing, existing code for convolution) -> Task for the next week
+#Workflow for what I am going to do? (What is the optimizing process looking like)
+#
 def Geo2Loc(list_evcoord):
     import numpy as np
 
